@@ -1,4 +1,4 @@
 ComputerVision
 ==============
 
-A C++ computer vision library
+A C++ computer vision / image processing library
