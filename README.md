@@ -18,7 +18,7 @@ Features
 ========
 
 * Bitmaps: load, scale, convert, access pixel data and export
-* Histogram equilization
+* Histogram equalization
 * Filter: convolution filters
 * Line extraction: laplace filter, sobel filter or Canny algorithm
 * Line detection: hough transform or progressive probabilistic hough transform (ppht)
