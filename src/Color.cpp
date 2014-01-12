@@ -4,12 +4,12 @@
 //
 // Shivan Taher
 // 12.04.2008
-// Contact: shi-89@gmx.net
+// Contact: shi.taher@gmail.com
 // ========================================================== //
 // Color.h
 // ========================================================== //
 
-#include "ComputerVision.h"
+#include <cv/ComputerVision.h>
 
 namespace ComputerVision
 {

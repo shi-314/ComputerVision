@@ -2,11 +2,11 @@
 // ColorPalette
 // - Zum Verwalten von Bitmap Farbpaletten
 //
-// Shivan Taher <shi-89@gmx.net>
+// Shivan Taher <shi.taher@gmail.com>
 // Created: 17.02.2011
 // ========================================================== //
 
-#include "ComputerVision.h"
+#include <cv/ComputerVision.h>
 
 using namespace std;
 

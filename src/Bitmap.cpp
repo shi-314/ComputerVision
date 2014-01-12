@@ -7,11 +7,11 @@
 // > ACHTUNG: Viele Methode funktionieren aus performancegründen 
 //			  nur mit Bitmaps mit gerader Breite!
 //
-// Shivan Taher <shi-89@gmx.net>
+// Shivan Taher <shi.taher@gmail.com>
 // Created: 05.02.2011
 // ========================================================== //
 
-#include "Bitmap.h"
+#include <cv/Bitmap.h>
 
 using namespace std;
 

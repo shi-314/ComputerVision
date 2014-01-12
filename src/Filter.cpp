@@ -2,11 +2,11 @@
 // Filter
 // - Namespace für alle möglichen Filter
 //
-// Shivan Taher <shi-89@gmx.net>
+// Shivan Taher <shi.taher@gmail.com>
 // Created: 02.03.2011
 // ========================================================== //
 
-#include "ComputerVision.h"
+#include <cv/ComputerVision.h>
 
 namespace ComputerVision {
 	using namespace std;

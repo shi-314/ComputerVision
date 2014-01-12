@@ -2,11 +2,11 @@
 // HoughTransform
 // - Führt die Hough Tranformation auf ein Bitmap aus
 //
-// Shivan Taher <shi-89@gmx.net>
+// Shivan Taher <shi.taher@gmail.com>
 // Created: 15.05.2011
 // ========================================================== //
 
-#include "ComputerVision.h"
+#include <cv/ComputerVision.h>
 
 namespace ComputerVision {
 	using namespace std;
