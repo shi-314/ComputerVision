@@ -3,6 +3,15 @@ ComputerVision
 
 A C++ computer vision / image processing library
 
+Features
+========
+
+* Bitmaps: load, scale, convert, access pixel data and export
+* Histogram equalization
+* Filter: convolution filters
+* Line extraction: laplace filter, sobel filter or Canny algorithm
+* Line detection: hough transform or progressive probabilistic hough transform (ppht)
+
 Todo
 ====
 
@@ -13,12 +22,3 @@ Todo
 * Remove Windows API usages
 * Use open source, multi platform Bitmap loader
 * Test code compilation on Linux and OSX
-
-Features
-========
-
-* Bitmaps: load, scale, convert, access pixel data and export
-* Histogram equalization
-* Filter: convolution filters
-* Line extraction: laplace filter, sobel filter or Canny algorithm
-* Line detection: hough transform or progressive probabilistic hough transform (ppht)
