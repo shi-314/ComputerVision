@@ -2,7 +2,7 @@
 // Canny
 // - Canny-Algorithmus
 //
-// Shivan Taher <shi-89@gmx.net>
+// Shivan Taher <shi.taher@gmail.com>
 // Created: 18.05.2011
 // ========================================================== //
 

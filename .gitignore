@@ -11,3 +11,6 @@
 *.lai
 *.la
 *.a
+
+# OS generated files
+Thumbs.db

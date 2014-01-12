@@ -3,7 +3,7 @@
 // - Laden, Speichern, Bearbeiten von Bilddateien
 // - WICHTIG: Unterstützt nur 8 und 24 bpp Bitmaps (sollte reichen)
 //
-// Shivan Taher <shi-89@gmx.net>
+// Shivan Taher <shi.taher@gmail.com>
 // Created: 05.02.2011
 // ========================================================== //
 

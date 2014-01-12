@@ -2,7 +2,7 @@
 // Matrix2
 // - Repräsentiert eine 2 dimensionale Matrix (Array)
 //
-// Shivan Taher <shi-89@gmx.net>
+// Shivan Taher <shi.taher@gmail.com>
 // Created: 17.05.2011
 // ========================================================== //
 

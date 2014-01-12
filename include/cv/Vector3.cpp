@@ -7,7 +7,7 @@
 //			kompiliert werden, da sonst unresolved externals
 //			auftreten. Diese Datei wird in Vector3.h includet.
 //
-// Shivan Taher <shi-89@gmx.net>
+// Shivan Taher <shi.taher@gmail.com>
 // Created: 27.02.2011
 // ========================================================== //
 

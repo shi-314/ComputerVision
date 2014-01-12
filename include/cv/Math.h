@@ -3,7 +3,7 @@
 // - Enthält wichtige mathematische Funktionen in einem
 //   eigenen Namespace
 //
-// Shivan Taher <shi-89@gmx.net>
+// Shivan Taher <shi.taher@gmail.com>
 // Created: 07.02.2011
 // ========================================================== //
 
