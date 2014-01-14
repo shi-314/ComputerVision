@@ -9,7 +9,7 @@
 #ifndef _MATRIX_2_H
 #define _MATRIX_2_H
 
-#include "ComputerVision.h"
+#include <cv/ComputerVision.h>
 
 namespace ComputerVision {
 	using namespace std;

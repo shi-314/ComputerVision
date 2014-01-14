@@ -19,7 +19,6 @@
 #include <stack>
 #include <ctime>
 
-// Computer Vision
 #include "Math.h"
 #include "Vector2.h"
 #include "Vector3.h"

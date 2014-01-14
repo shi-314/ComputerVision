@@ -9,7 +9,7 @@
 #ifndef HOUGH_TRANSFORM_H
 #define HOUGH_TRANSFORM_H
 
-#include "ComputerVision.h"
+#include <cv/ComputerVision.h>
 
 namespace ComputerVision {
 	using namespace std;
@@ -34,7 +34,7 @@ namespace ComputerVision {
 			vector<Line> getLineSegments(Vec2 houghLine, bool removeHits=true);
 
 			// Progressive Probabilistic Hough Transform
-			vector<Line> ppht();
+			vector<Line> ppht(); 
 
 			// Gibt den Punkt im Hough-Raum mit dem höchsten Wert zurück (t,r,wert)
 			Vec3 getHighestValue();

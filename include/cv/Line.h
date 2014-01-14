@@ -9,7 +9,7 @@
 #ifndef _LINE
 #define _LINE
 
-#include "ComputerVision.h"
+#include <cv/ComputerVision.h>
 
 namespace ComputerVision {
 	using namespace std;

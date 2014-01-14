@@ -10,7 +10,7 @@
 #ifndef _VECTOR_3_H
 #define _VECTOR_3_H
 
-#include "ComputerVision.h"
+#include <cv/ComputerVision.h>
 
 namespace ComputerVision {
 	using namespace std;
@@ -79,7 +79,6 @@ namespace ComputerVision {
 
 #include "Vector3.cpp"
 
-// Standard Datentypen, die man immer braucht...
 typedef ComputerVision::Vector3<int> Vec3;
 typedef ComputerVision::Vector3<double> Vec3d;
 typedef ComputerVision::Vector3<float> Vec3f;

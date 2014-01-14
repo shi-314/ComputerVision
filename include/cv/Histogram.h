@@ -9,7 +9,7 @@
 #ifndef _HISTOGRAM_H
 #define _HISTOGRAM_H
 
-#include "ComputerVision.h"
+#include <cv/ComputerVision.h>
 
 namespace ComputerVision {
 	using namespace std;

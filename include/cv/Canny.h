@@ -9,7 +9,7 @@
 #ifndef _CANNY_H
 #define _CANNY_H
 
-#include "ComputerVision.h"
+#include <cv/ComputerVision.h>
 
 namespace ComputerVision {
 	using namespace std;

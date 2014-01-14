@@ -10,7 +10,7 @@
 #ifndef _BITMAP_H
 #define _BITMAP_H
 
-#include "ComputerVision.h"
+#include <cv/ComputerVision.h>
 
 namespace ComputerVision {
 

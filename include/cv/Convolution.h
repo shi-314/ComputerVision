@@ -9,7 +9,7 @@
 #ifndef _CONVOLUTION_H
 #define _CONVOLUTION_H
 
-#include "ComputerVision.h"
+#include <cv/ComputerVision.h>
 
 namespace ComputerVision {
 	using namespace std;
